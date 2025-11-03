@@ -170,10 +170,10 @@ export default function Hero() {
             Ask Snell
           </button>
           <a
-            href="#darkvision"
+            href="#coming soon"
             className="px-8 py-3 md:py-4 border border-[#B3E43D] text-[#E5E5E5] font-semibold rounded-lg hover:bg-[#B3E43D]/10 transition"
           >
-            DarkVision
+            Clients
           </a>
         </div>
       </motion.div>
