@@ -10,9 +10,6 @@ export default function Home() {
     <main className="home-page bg-[#0B0B0C] text-white">
       <Hero />
       <AboutSection />
-      <TechSection />
-      <SafetySection />
-      <ContactForm />
       <Footer />
     </main>
   );
