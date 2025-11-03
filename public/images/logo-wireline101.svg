@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" fill="none">
+  <!-- Background (optional for preview) -->
+  <!-- <rect width="600" height="200" fill="#0B0B0C"/> -->
+
+  <!-- Wordmark -->
+  <text x="50%" y="45%" text-anchor="middle" font-family="Poppins, Montserrat, Arial, sans-serif" font-weight="800" font-size="64" fill="#E5E5E5" dominant-baseline="middle">
+    WIRELINE 101
+  </text>
+
+  <!-- Gradient definition -->
+  <defs>
+    <linearGradient id="energyGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#209CEE"></stop>
+      <stop offset="25%" stop-color="#42A5B3"></stop>
+      <stop offset="50%" stop-color="#61B596"></stop>
+      <stop offset="75%" stop-color="#8CD46A"></stop>
+      <stop offset="100%" stop-color="#B3E43D"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Gradient line -->
+  <rect x="100" y="130" width="400" height="10" rx="5" fill="url(#energyGradient)"></rect>
+</svg>
